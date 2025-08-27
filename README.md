@@ -40,6 +40,10 @@ As always, best of luck and happy coding!
 
 4. Place your deliverables (screenshots, code, etc.) in this folder.
 
+4.1 Run `git commit -m "message"` to commit your changes.
+
+4.2 Run `git push` to push your changes to GitHub.
+
 5. **Submit a Pull Request (PR) to the main repository**.
 
    * **PR Title format:**
